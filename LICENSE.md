@@ -1,8 +1,13 @@
 # Licence
 
 The notebooks, helper modules, the Lab 13 app and this repository's text are
-CourseLabs course material, based on Dr. Ernesto Lee's NLP book and published
-here so learners can run the labs in Google Colab or on their own computer.
+CourseLabs course material, based on Dr. Ernesto Lee's NLP book, and are licensed
+under the Creative Commons Attribution 4.0 International licence (CC BY 4.0),
+https://creativecommons.org/licenses/by/4.0/. You may share and adapt them for
+any purpose, including commercially, as long as you give credit: "Introduction
+to Natural Language Processing, Dr. Ernesto Lee and CourseLabs
+(https://courselabs.io), CC BY 4.0", with a link to the licence and a note of
+any changes you made.
 
 The data in `data/` keeps its original licence. Kittiwake Mobile is an invented
 company; its tickets, reviews and notices were generated for the course (see

@@ -162,5 +162,5 @@ Credits: written for CourseLabs.
 
 ## Licence
 
-See [LICENSE.md](LICENSE.md): the course material is CourseLabs', and the data
+See [LICENSE.md](LICENSE.md): the course material is CC BY 4.0, and the data
 keeps its original licences, with a link to each original.
