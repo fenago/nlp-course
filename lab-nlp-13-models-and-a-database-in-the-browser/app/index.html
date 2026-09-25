@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kittiwake notice search</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header>
+  <h1>Kittiwake notice search</h1>
+  <p>Runs in this browser tab: the model, the vectors and the database. <span id="where"></span></p>
+</header>
+
+<section>
+  <label for="q">Question</label>
+  <input id="q" value="I forgot the code for my answerphone">
+</section>
+
+<section id="s1">
+  <h2>Step 1. Embed the notices, keep them in IndexedDB</h2>
+  <p class="predict"><label for="p1">Prediction: will matching words put the voicemail PIN notice (n08) first for this question?</label>
+    <select id="p1"><option value="">choose</option><option>yes</option><option>no</option></select></p>
+  <button id="b1-store">Embed and store the notices</button>
+  <button id="b1-search">Search IndexedDB</button>
+  <div class="cols">
+    <div><h3>By meaning (vectors)</h3><ol id="r1"></ol></div>
+    <div><h3>By shared words</h3><ol id="r1k"></ol></div>
+  </div>
+</section>
+
+<section id="s2">
+  <h2>Step 2. The same data in SQLite, with SQL</h2>
+  <p class="predict"><label for="p2">Prediction: after you store the notices and reload this tab, how many rows will SQLite find?</label>
+    <select id="p2"><option value="">choose</option><option>0</option><option>48</option></select></p>
+  <p id="s2-status">SQLite: not opened yet</p>
+  <button id="b2-store">Store in SQLite</button>
+  <button id="b2-search">Search SQLite</button>
+  <ol id="r2"></ol>
+</section>
+
+<section id="s3">
+  <h2>Step 3. A short answer, written in this tab</h2>
+  <p class="predict"><label for="p3">Prediction: given the voicemail notice, will the model's answer tell you to dial 121?</label>
+    <select id="p3"><option value="">choose</option><option>yes</option><option>no</option></select></p>
+  <button id="b3">Answer the question</button>
+  <p id="a3" class="answer"></p>
+</section>
+
+<section id="own">
+  <h2>On your own. Hybrid search</h2>
+  <button id="b4-try">Hybrid search the question</button>
+  <button id="b4-eval">Evaluate on the 16 questions</button>
+  <ol id="r4"></ol>
+</section>
+
+<h2>Log</h2>
+<pre id="log"></pre>
+<script type="module" src="main.js"></script>
+</body>
+</html>

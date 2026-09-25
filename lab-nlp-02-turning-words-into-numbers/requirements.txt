@@ -1,0 +1,6 @@
+# For running this lab on your own computer; Colab needs none of it.
+bm25s
+sentence-transformers
+scikit-learn
+pandas
+numpy

@@ -1,0 +1,7 @@
+# For running this lab on your own computer; Colab needs none of it.
+sentence-transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib

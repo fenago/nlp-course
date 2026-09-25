@@ -1,0 +1,24 @@
+# Kittiwake Mobile service notices, one per line. Kittiwake is invented: the first five are the image's
+# /opt/nlplab/data/kittiwake_notices.txt, the other seventeen were invented for this lab. Nothing here is real.
+Planned maintenance: Kittiwake Mobile engineers will upgrade the mast at St. Aldric's Road, Gullhaven, on 14 October from 1 a.m. to approx. 5 a.m. Calls and data may drop during this window. Customers on Unlimited Plus won't be charged for Wi-Fi calling in the meantime. Questions? Text HELP to 2020 or visit kittiwake.example/status.
+From 1 November the Flex 30 plan rises from $30.00 to $32.50 a month. Customers who joined before 1 Sept. keep their current price until their contract ends. Dr. Ines Varga, Kittiwake's head of pricing, said the change funds new 5G masts in Saltmoor and Port Ember.
+Outage update, 3:40 p.m.: data services in Cragwell and Marrowby are restored. A fibre cut near Eastholm Quay caused the outage. Affected customers will receive a $5.00 credit on their next bill. We're sorry for the disruption.
+The Nimbus X2 software update (version 4.2) is paused while we investigate reports that some handsets won't restart. If your Nimbus X2 is stuck, hold the power and volume-down buttons for 20 seconds. Don't return the phone to a shop until you have tried this.
+Kittiwake Mobile now supports eSIM on the Corvid 5 and the Aster Fold. Existing customers can switch in the app under Account, SIM. It takes about two minutes and doesn't change your number or your plan.
+Outage update, 9:15 a.m.: voice calls in Tern Harbour and Lowmere are down after a power failure at the Brackenridge exchange. Engineers expect service back by 2 p.m. Customers affected for more than four hours will receive a $3.00 credit.
+The Flex 10 plan keeps its price of $10.00 a month, and from 1 December its data allowance rises from 2 GB to 4 GB. Nothing changes for Prepay Go customers.
+Roam Easy: from 1 January, Unlimited Plus customers can use their calls, texts and data in 40 destinations at no extra cost. Flex customers pay $4.00 a day, charged only on days they use their phone abroad.
+Our new store at 12 Harbour Street, Wrenfield, opens on 3 November, from 9 a.m. to 6 p.m., Monday to Saturday. The Saltmoor store on Mill Lane closes permanently on 31 October.
+Family Share accounts can now have up to six lines instead of five. Each extra line costs $8.00 a month, and the account holder can add one in the app under Account, Family.
+Prepay Go top-ups by card at the Post Office stopped working on 18 September. Until we fix it, top up in the app or text TOPUP to 2020. Your balance and your number are not affected.
+Some Corvid 5 Pro handsets bought between 1 and 20 August have a faulty charging port. Bring the phone and its receipt to any Kittiwake store for a free replacement port, fitted in about an hour.
+Kittiwake will never text you asking for your PIN or your password. If you receive a message like this, forward it to 7726 and delete it.
+5G is now live in Saltmoor and Port Ember. You need a 5G handset, such as the Corvid 5 or the Nimbus X2, and a plan that includes 5G: Unlimited Plus, Flex 30 or Family Share. Flex 10 and Prepay Go stay on 4G.
+Kittiwake's 3G network switches off on 31 March 2027. Handsets that only support 3G will stop making calls on that date. Customers with one can claim a free Nimbus Mini before 28 February 2027.
+From January, bills are issued on the 5th of each month instead of the 1st, and direct debit payments are taken on the 12th. Customers do not need to do anything.
+The late payment fee is $7.50, charged 14 days after a missed payment. If you tell us before the due date that you cannot pay, we waive the fee once a year.
+Customer support is on 150 from any Kittiwake phone, from 8 a.m. to 8 p.m. every day except 25 December. Chat in the app is open 24 hours a day.
+Wi-Fi calling is now available on every plan, including Prepay Go. Turn it on in the phone's settings under Mobile, Wi-Fi Calling. Calls over Wi-Fi cost the same as normal calls.
+Planned maintenance: the mast at Quarry Hill, Marrowby, will be upgraded on 21 October from midnight to 4 a.m. Only data is affected; calls and texts keep working.
+Trade in any working smartphone at a Kittiwake store and get up to $150.00 off a new Aster Fold until 30 November.
+Unused data on Flex 30 now rolls over to the next month, up to 10 GB. Rolled-over data is used first and expires after one month.

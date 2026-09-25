@@ -1,0 +1,3 @@
+# For running this lab on your own computer; Colab needs none of it.
+torch
+scikit-learn

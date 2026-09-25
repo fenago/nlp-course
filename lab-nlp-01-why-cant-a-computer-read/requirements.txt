@@ -1,0 +1,6 @@
+# For running this lab on your own computer; Colab needs none of it.
+spacy
+nltk
+transformers
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+# Then: python -m nltk.downloader punkt_tab stopwords wordnet omw-1.4 averaged_perceptron_tagger_eng maxent_ne_chunker_tab words

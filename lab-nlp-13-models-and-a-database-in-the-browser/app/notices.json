@@ -1,0 +1,242 @@
+[
+ {
+  "id": "n01",
+  "title": "Planned maintenance at the St. Aldric's Road mast, Gullhaven",
+  "text": "Planned maintenance: Kittiwake Mobile engineers will upgrade the mast at St. Aldric's Road, Gullhaven, on 14 October from 1 a.m. to approx. 5 a.m. Calls and data may drop during this window. Customers on Unlimited Plus won't be charged for Wi-Fi calling in the meantime. Questions? Text HELP to 2020 or visit kittiwake.example/status."
+ },
+ {
+  "id": "n02",
+  "title": "Flex 30 price change from 1 November",
+  "text": "From 1 November the Flex 30 plan rises from $30.00 to $32.50 a month. Customers who joined before 1 Sept. keep their current price until their contract ends. Dr. Ines Varga, Kittiwake's head of pricing, said the change funds new 5G masts in Saltmoor and Port Ember."
+ },
+ {
+  "id": "n03",
+  "title": "Outage restored in Cragwell and Marrowby",
+  "text": "Outage update, 3:40 p.m.: data services in Cragwell and Marrowby are restored. A fibre cut near Eastholm Quay caused the outage. Affected customers will receive a $5.00 credit on their next bill. We're sorry for the disruption."
+ },
+ {
+  "id": "n04",
+  "title": "Nimbus X2 update 4.2 paused",
+  "text": "The Nimbus X2 software update (version 4.2) is paused while we investigate reports that some handsets won't restart. If your Nimbus X2 is stuck, hold the power and volume-down buttons for 20 seconds. Don't return the phone to a shop until you have tried this."
+ },
+ {
+  "id": "n05",
+  "title": "eSIM on the Corvid 5 and the Aster Fold",
+  "text": "Kittiwake Mobile now supports eSIM on the Corvid 5 and the Aster Fold. Existing customers can switch in the app under Account, SIM. It takes about two minutes and doesn't change your number or your plan."
+ },
+ {
+  "id": "n06",
+  "title": "Scam texts asking for a release fee",
+  "text": "Kittiwake will never text you a link asking for your PIN. Messages claiming your account is locked and asking you to pay a release fee are a scam. Forward them to 7726 and delete them."
+ },
+ {
+  "id": "n07",
+  "title": "Roaming in Europe from 1 December",
+  "text": "From 1 December, roaming in Europe on Flex 20 and Flex 30 costs $2.00 a day, capped at $14.00 a month. Unlimited Plus keeps roaming at no extra charge."
+ },
+ {
+  "id": "n08",
+  "title": "Resetting your voicemail PIN",
+  "text": "If you have forgotten your voicemail PIN, dial 121 from your Kittiwake phone and choose option 4. A new four-digit PIN arrives by text within a minute."
+ },
+ {
+  "id": "n09",
+  "title": "Kittiwake app version 7.3",
+  "text": "The Kittiwake app version 7.3 adds a chart of data use by day and fixes a crash when opening bills on Android 15. Update it from your app store."
+ },
+ {
+  "id": "n10",
+  "title": "Error E42 when topping up",
+  "text": "Some customers see error E42 when topping up with a card in the app. It means the card issuer declined the payment; try another card or top up at any Kittiwake shop."
+ },
+ {
+  "id": "n11",
+  "title": "Harbour Street shop closed for refurbishment",
+  "text": "The Kittiwake shop on Harbour Street, Wrenmouth, closes for refurbishment from 3 to 17 November. The nearest open shop is on Fore Street, Saltmoor."
+ },
+ {
+  "id": "n12",
+  "title": "5G live in Saltmoor and Port Ember",
+  "text": "5G is now live across Saltmoor and Port Ember. Customers with a 5G handset on any plan will see 5G in the status bar with no change needed."
+ },
+ {
+  "id": "n13",
+  "title": "3G switch-off in Hollin Cross",
+  "text": "Kittiwake is switching off its 3G network in Hollin Cross on 20 January. Older phones that only use 3G will stop making calls; check your handset under Settings, Mobile network."
+ },
+ {
+  "id": "n14",
+  "title": "New billing date for Family Share",
+  "text": "Bills for Family Share accounts will be issued on the 5th of each month instead of the 28th, starting in February. Direct debits move automatically."
+ },
+ {
+  "id": "n15",
+  "title": "Wi-Fi calling on the Aster Fold",
+  "text": "Wi-Fi calling is now available on the Aster Fold. Turn it on under Settings, Phone, Wi-Fi Calling; calls over Wi-Fi are free on every plan."
+ },
+ {
+  "id": "n16",
+  "title": "Outage in Tarnby after storm damage",
+  "text": "Outage, 9:10 a.m.: customers in Tarnby have no mobile signal after storm damage to the mast on Cliff Lane. Engineers are on site and expect service back by evening."
+ },
+ {
+  "id": "n17",
+  "title": "Emergency calls work without signal",
+  "text": "Emergency calls to 999 and 112 work on any network even if Kittiwake has no signal where you are. Your phone does not need credit or a SIM."
+ },
+ {
+  "id": "n18",
+  "title": "Pay As You Go credit lasts longer",
+  "text": "Pay As You Go credit now lasts 12 months from your last top-up instead of 6. Credit you already have is extended automatically."
+ },
+ {
+  "id": "n19",
+  "title": "Kestrel Mini charger replacement",
+  "text": "The Kestrel Mini charger sold between March and May may overheat. Stop using it and bring it to any Kittiwake shop for a free replacement; the phone itself is not affected."
+ },
+ {
+  "id": "n20",
+  "title": "Data rollover on Flex plans",
+  "text": "Unused data on Flex 20 and Flex 30 now rolls over to the next month, up to 10 GB. Rolled-over data is used first."
+ },
+ {
+  "id": "n21",
+  "title": "Upgrading before your contract ends",
+  "text": "Customers can upgrade their handset up to 60 days before their contract ends without a fee. Check your upgrade date in the app under Account, Plan."
+ },
+ {
+  "id": "n22",
+  "title": "Bringing your number to Kittiwake",
+  "text": "Moving to Kittiwake with your old number? Text PAC to 65075 at your old provider, then give us the code. Your number moves within one working day."
+ },
+ {
+  "id": "n23",
+  "title": "Large print and Braille bills",
+  "text": "Kittiwake now offers bills in large print and Braille at no charge. Ask in any shop or call 150 from your Kittiwake phone."
+ },
+ {
+  "id": "n24",
+  "title": "Coverage map shows indoor signal",
+  "text": "The online coverage map at kittiwake.example/coverage now shows indoor and outdoor signal separately and is updated every Monday."
+ },
+ {
+  "id": "n25",
+  "title": "Billing system maintenance on 9 November",
+  "text": "Our billing system will be unavailable on Sunday 9 November from midnight to 6 a.m. You can still make calls and use data, but you won't be able to view bills or top up."
+ },
+ {
+  "id": "n26",
+  "title": "Nuisance call filter",
+  "text": "A new call filter labels suspected nuisance calls as Likely spam on screen. It is on by default; turn it off in the app under Settings, Calls."
+ },
+ {
+  "id": "n27",
+  "title": "More hotspot data on Unlimited Plus",
+  "text": "Unlimited Plus now includes 20 GB of hotspot data a month, up from 10 GB."
+ },
+ {
+  "id": "n28",
+  "title": "Contract prices rise on 1 April",
+  "text": "Monthly prices on all airtime contracts rise by $1.00 from 1 April, as set out in your contract terms. Pay As You Go prices do not change."
+ },
+ {
+  "id": "n29",
+  "title": "Lost or stolen phones",
+  "text": "If your phone is lost or stolen, call 0300 555 0150 or use Report a lost phone in the app. We block the SIM straight away and can send a replacement the next day."
+ },
+ {
+  "id": "n30",
+  "title": "Protection against SIM swap fraud",
+  "text": "To protect you from SIM swap fraud, a new SIM on your account now needs the one-time code we text to your existing number, or ID in a shop."
+ },
+ {
+  "id": "n31",
+  "title": "Mast upgrade at Eastholm Quay",
+  "text": "New equipment at the Eastholm Quay mast will improve indoor signal around the harbour. Work runs overnight from 20 to 22 October, with short signal drops possible after midnight."
+ },
+ {
+  "id": "n32",
+  "title": "Corvid 5 update 2.8",
+  "text": "Software update 2.8 for the Corvid 5 fixes blurry photos in low light and improves battery life. It installs overnight while the phone is charging."
+ },
+ {
+  "id": "n33",
+  "title": "Visual voicemail for Android",
+  "text": "Visual voicemail is now available on Android phones. Download Kittiwake Voicemail from the app store and sign in with your Kittiwake number."
+ },
+ {
+  "id": "n34",
+  "title": "Student discount",
+  "text": "Students in full-time education get 20 percent off Flex 20 and Flex 30. Verify your student status in the app to apply the discount from your next bill."
+ },
+ {
+  "id": "n35",
+  "title": "No more paper bill fee",
+  "text": "We no longer charge $1.50 for paper bills. Customers who still receive paper bills will see the fee removed from November."
+ },
+ {
+  "id": "n36",
+  "title": "Marrowby shop opens on Sundays",
+  "text": "The Marrowby shop now opens on Sundays from 10 a.m. to 4 p.m."
+ },
+ {
+  "id": "n37",
+  "title": "Outage updates by text",
+  "text": "Text HELP to 2020 to get a link to our status page and the latest outage updates by text."
+ },
+ {
+  "id": "n38",
+  "title": "World Calls add-on",
+  "text": "The World Calls add-on gives 300 minutes to landlines in 40 countries for $5.00 a month. Add it in the app under Plan, Add-ons."
+ },
+ {
+  "id": "n39",
+  "title": "Nimbus X2 update 4.2.1 fixes restarts",
+  "text": "Software update 4.2.1 for the Nimbus X2 is now available and fixes the restart problem that paused version 4.2. Charge the phone above 50 percent before installing."
+ },
+ {
+  "id": "n40",
+  "title": "When a direct debit fails",
+  "text": "If a direct debit fails, we will try again after 7 days and text you before we do. There is no charge for the first failed payment."
+ },
+ {
+  "id": "n41",
+  "title": "Free signal booster",
+  "text": "Customers with weak indoor signal can ask for a free Kittiwake signal booster, which plugs into your home broadband router."
+ },
+ {
+  "id": "n42",
+  "title": "Parental controls for Family Share",
+  "text": "Parental controls in the app now let you block adult content and set a daily data limit for each number on a Family Share account."
+ },
+ {
+  "id": "n43",
+  "title": "Port Ember harbour festival",
+  "text": "Extra mobile capacity will be in place for the Port Ember harbour festival from 12 to 14 July, so calls and data should keep working in the crowds."
+ },
+ {
+  "id": "n44",
+  "title": "Fibre works on Mill Road, Gullhaven",
+  "text": "Roadworks for new fibre on Mill Road, Gullhaven, may cause short outages for customers on Kittiwake Home Broadband between 8 and 10 October."
+ },
+ {
+  "id": "n45",
+  "title": "Cancelling within 14 days",
+  "text": "You can cancel a new contract within 14 days of receiving your phone for a full refund if the phone is returned unused."
+ },
+ {
+  "id": "n46",
+  "title": "When your monthly data runs out",
+  "text": "Customers who use all their monthly data can keep browsing at 128 kbps at no charge until the next month begins, or buy a 5 GB boost for $4.00."
+ },
+ {
+  "id": "n47",
+  "title": "Relay calls are free",
+  "text": "Relay UK calls for customers with hearing or speech difficulties are free from every Kittiwake plan: dial 18001 before the number."
+ },
+ {
+  "id": "n48",
+  "title": "Sign in with a passkey",
+  "text": "The Kittiwake app now supports signing in with a passkey instead of a password. Set it up under Account, Security."
+ }
+]

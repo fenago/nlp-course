@@ -1,0 +1,6 @@
+# For running this lab on your own computer; Colab needs none of it.
+nltk
+torch
+scikit-learn
+matplotlib
+# Then: python -m nltk.downloader punkt_tab stopwords wordnet omw-1.4 averaged_perceptron_tagger_eng maxent_ne_chunker_tab words reuters
