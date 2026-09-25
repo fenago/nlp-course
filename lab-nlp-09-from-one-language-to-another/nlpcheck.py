@@ -157,6 +157,8 @@ def check_09_01():
     elif not tf > no + 2:
         problems.append(f"the teacher-forced model (chrF {tf:.1f}) should clearly beat the one trained on its "
                         f"own guesses ({no:.1f}); rerun section 5 as shipped.")
+    if problems:
+        return _report(problems, "")
     return _report(problems, f"Right: the shift is correct, the untrained loss is {ul:.2f} (ln 8,004 = 8.99), and "
                              f"teacher forcing reached chrF {tf:.1f} against {no:.1f} on the same pairs.")
 
@@ -178,6 +180,8 @@ def check_09_02():
                         "count in any one reference: min(count, most[gram]).")
     if not got["beam_chrf"] > got["greedy_chrf"]:
         problems.append("beam search should score above greedy decoding; rerun section 4 as shipped.")
+    if problems:
+        return _report(problems, "")
     return _report(problems, f"Right: greedy chrF {got['greedy_chrf']:.1f}, beam chrF {got['beam_chrf']:.1f}, and "
                              f"your BLEU matches the lab's exactly ({got['my_bleu']:.2f}).")
 
@@ -196,6 +200,8 @@ def check_09_03():
     elif not s > j + 5:
         problems.append(f"translating the two halves separately (chrF {s:.1f}) should clearly beat translating "
                         f"them joined ({j:.1f}). separate should join each pair of halves' translations: a + b.")
+    if problems:
+        return _report(problems, "")
     return _report(problems, f"Right: one sentence at a time scores chrF {s:.1f}; the same pairs joined into one "
                              f"input score {j:.1f}.")
 
